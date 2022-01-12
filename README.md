@@ -20,7 +20,8 @@ web.php has multiple endpoints for showing different ways that errors are handle
 
 | dependency      | version           
 | ------------- |:-------------:| 
-| sentry-laravel   | 2.2.0    |
+| sentry-laravel| 2.10.2        |
+| sentry-sdk    | 3.1           |
 | sentry-cli   | 1.53.0    |
 | laravel | 8.0      |
 | php   | 7.2.5     |
